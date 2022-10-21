@@ -1,8 +1,41 @@
-# Mantine Next Template
+<!-- README LOGO -->
+<br />
+<p align="center">
+  <a href="">
+    <!-- http://www.svgshare.com/s/70Y -->
+    <img src="public/logo.svg" alt="Logo" width="100" height="100">
+  </a>
+  <h1 align="center">Minimal IoT App using Next.js</h1>
+  <p align="center">
+   Just a way to tinker with all the stuff around IoT and Next.js<br />
+    <br /><br />
+  </p>
 
-Get started with Mantine + Next with just a few button clicks.
-Click `Use this template` button at the header of repository or [follow this link](https://github.com/mantinedev/mantine-minimal-next-template/generate) and create new repository with `@mantine` packages. Note that you have to be logged in to GitHub to generate template.
+## Getting Started
+To get a local copy up and running follow these steps.
 
-## Minimal template
+### Prerequisites
+To learn more about which versions of Node.js are supported go <a href="https://nodejs.org/en/">here</a>.
+```
+Requires Node.js version 16 or later
+```
 
-This template includes minimal setup for server side rendering with Next.js, you can find a [fully featured template here](https://github.com/mantinedev/mantine-next-template).
+
+### Installation Steps
+1. Clone the repo
+
+```
+git clone git@github.com:craigwheeler/next-iot.git
+```
+
+2. Install packages
+
+```
+yarn
+```
+
+3. Run the project
+
+```
+yarn dev
+```
