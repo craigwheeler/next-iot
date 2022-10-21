@@ -242,6 +242,13 @@
     "@radix-ui/react-scroll-area" "1.0.0"
     react-textarea-autosize "8.3.4"
 
+"@mantine/ds@^5.6.0":
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/@mantine/ds/-/ds-5.6.0.tgz#04417e2d02f41c84486c288b349e1c19e58066cc"
+  integrity sha512-OeGw6e2c+8sso0IYaWEJkb6A2tEKq7wXXvwU8+qaqmDHfdi9IA+PB2ztNbap8ypCph1VxTgiecBvdw5j5WFe0A==
+  dependencies:
+    "@mantine/utils" "5.6.0"
+
 "@mantine/hooks@^5.6.0":
   version "5.6.0"
   resolved "https://registry.yarnpkg.com/@mantine/hooks/-/hooks-5.6.0.tgz#4517a8d031b8004a04b6a99e7d091a7eea259c98"
@@ -254,6 +261,14 @@
   dependencies:
     "@mantine/ssr" "5.6.0"
     "@mantine/styles" "5.6.0"
+
+"@mantine/prism@^5.6.0":
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/@mantine/prism/-/prism-5.6.0.tgz#90a7d57a693fa3a5c5e3f0ad2880b338c7aff53f"
+  integrity sha512-HKGZPFwwxdfmNWusT25JcX+kvltMGQsH7RGJ86++++RdSTkbZDq+RcG+L+GDYxUVgUgkeNgei12iIhwBhlJb+Q==
+  dependencies:
+    "@mantine/utils" "5.6.0"
+    prism-react-renderer "^1.2.1"
 
 "@mantine/ssr@5.6.0":
   version "5.6.0"
@@ -475,6 +490,11 @@
   integrity sha512-6JrF+fdUK2zbGpJIlN7G3v966PQjyx/dPt1T9km2wj+EUBqgrxCk3uX4Kct16MIm9gGxfKRcfax2hVf5jvlTzA==
   dependencies:
     tslib "^2.4.0"
+
+"@tabler/icons@^1.106.0":
+  version "1.106.0"
+  resolved "https://registry.yarnpkg.com/@tabler/icons/-/icons-1.106.0.tgz#adde7692da6114ae803e6cb2ff9e51181e941a55"
+  integrity sha512-ldN/ucjGrtAE3YlU8ct8j13ZNbrUueEIqw3jVpGQ55eVztlqVBzGnZbF5kJyLJGmHtxVblyyhEWsRKutFbB21A==
 
 "@types/json5@^0.0.29":
   version "0.0.29"
@@ -2015,6 +2035,11 @@ prelude-ls@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
+
+prism-react-renderer@^1.2.1:
+  version "1.3.5"
+  resolved "https://registry.yarnpkg.com/prism-react-renderer/-/prism-react-renderer-1.3.5.tgz#786bb69aa6f73c32ba1ee813fbe17a0115435085"
+  integrity sha512-IJ+MSwBWKG+SM3b2SUfdrhC+gu01QkV2KmRQgREThBfSQRoufqRfxfHUxpG1WcaFjP+kojcFyO9Qqtpgt3qLCg==
 
 process-nextick-args@~2.0.0:
   version "2.0.1"
