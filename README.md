@@ -8,8 +8,10 @@
   <h1 align="center">Minimal IoT App using Next.js</h1>
   <p align="center">
    Just a way to tinker with all the stuff around IoT and Next.js<br />
-    <br /><br />
+    <br />
   </p>
+
+![screencast 2022-10-21 16-54-36](https://user-images.githubusercontent.com/7518899/197287219-d9264098-b43b-4ab1-8503-2df264091d4b.gif)
 
 ## Getting Started
 To get a local copy up and running follow these steps.
