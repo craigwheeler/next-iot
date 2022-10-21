@@ -110,7 +110,7 @@ function HeaderMiddle({ links }: HeaderMiddleProps) {
   ));
 
   return (
-    <Header height={56} mb={120}>
+    <Header height={56}>
       <Container className={classes.inner}>
         <Group className={classes.links} spacing={5}>
           {items}
